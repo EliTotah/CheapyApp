@@ -1,6 +1,6 @@
 # Cheapy
 
-The smart shopping cart calculator for finding the best deals across supermarket chains.
+Your Personal Assistant for Smarter, Cheaper Shopping Across Supermarket Chains
 
 ## Table of Contents
 * [General Info](#Cheapy)
